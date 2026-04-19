@@ -38,4 +38,4 @@ def predict_url(url):
         print("Malicious URL")
     else:
         print("Safe URL")
-predict_url("http://example-login-secure.com")
+predict_url("corporationwiki.com/Ohio/Columbus/frank-s-benson-P3333917.aspx")
